@@ -39,12 +39,6 @@ TenGeoP-SARwv (Wang Chen, 2018) in which we have above 50000 images
 
 The DDPM model requires significant computational resources, and we have only built a few example models to validate the ideas in this paper. A joy training is done for 700 images and we've got some kind of satisfied results  
 
-### Visuals
-
-#### Pretrained Celeb 
-
-Bon, je mets pas ma photo sur github
-
 #### TenGeoP-SARwv
 
 Results with 5 epochs : Please download the two files Process_machain.tiff in main folder
